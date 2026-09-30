@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        14
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "working on the day's main task (1) Isabella Rodriguez is gathering what they need) @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a short friendly chat @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "..."
+        ],
+        [
+          "Klaus Mueller",
+          "..."
+        ],
+        [
+          "Maria Lopez",
+          "..."
+        ],
+        [
+          "Klaus Mueller",
+          "..."
+        ],
+        [
+          "Maria Lopez",
+          "..."
+        ],
+        [
+          "Klaus Mueller",
+          "..."
+        ],
+        [
+          "Maria Lopez",
+          "..."
+        ],
+        [
+          "Klaus Mueller",
+          "..."
+        ],
+        [
+          "Maria Lopez",
+          "..."
+        ],
+        [
+          "Klaus Mueller",
+          "..."
+        ],
+        [
+          "Maria Lopez",
+          "..."
+        ],
+        [
+          "Klaus Mueller",
+          "..."
+        ],
+        [
+          "Maria Lopez",
+          "..."
+        ],
+        [
+          "Klaus Mueller",
+          "..."
+        ],
+        [
+          "Maria Lopez",
+          "..."
+        ],
+        [
+          "Klaus Mueller",
+          "..."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a short friendly chat @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "..."
+        ],
+        [
+          "Klaus Mueller",
+          "..."
+        ],
+        [
+          "Maria Lopez",
+          "..."
+        ],
+        [
+          "Klaus Mueller",
+          "..."
+        ],
+        [
+          "Maria Lopez",
+          "..."
+        ],
+        [
+          "Klaus Mueller",
+          "..."
+        ],
+        [
+          "Maria Lopez",
+          "..."
+        ],
+        [
+          "Klaus Mueller",
+          "..."
+        ],
+        [
+          "Maria Lopez",
+          "..."
+        ],
+        [
+          "Klaus Mueller",
+          "..."
+        ],
+        [
+          "Maria Lopez",
+          "..."
+        ],
+        [
+          "Klaus Mueller",
+          "..."
+        ],
+        [
+          "Maria Lopez",
+          "..."
+        ],
+        [
+          "Klaus Mueller",
+          "..."
+        ],
+        [
+          "Maria Lopez",
+          "..."
+        ],
+        [
+          "Klaus Mueller",
+          "..."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 00:02:40"
+  }
+}

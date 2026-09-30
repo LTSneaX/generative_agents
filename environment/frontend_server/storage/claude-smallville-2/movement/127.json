@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "working on the day's main task (is focusing on the task) @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        32
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "working on the day's main task (is wrapping up) (1) Maria Lopez is gathering what they need) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        117,
+        31
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "working on the day's main task (is wrapping up) (1) Klaus Mueller is gathering what they need) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 00:21:10"
+  }
+}
